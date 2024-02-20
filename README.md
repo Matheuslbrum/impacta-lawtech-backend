@@ -12,7 +12,7 @@ Certifique-se de ter o Node.js e o npm instalados em seu sistema. Em seguida, si
    git clone https://github.com/matheuslbrum/impacta-lawtech-backend.git
 
 2. Navegue até o diretório do projeto:
-   cd impacta_lawtech
+   cd impacta-lawtech-backend
 3. Instale as dependências do projeto:
    npm install
 
